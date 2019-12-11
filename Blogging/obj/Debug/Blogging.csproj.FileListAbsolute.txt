@@ -1,0 +1,45 @@
+C:\Users\hp\source\repos\Blogging\Blogging\obj\Debug\Blogging.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Blogging\Blogging\obj\Debug\Blogging.Properties.Resources.resources
+C:\Users\hp\source\repos\Blogging\Blogging\obj\Debug\Blogging.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Blogging\Blogging\obj\Debug\Blogging.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Blogging\Blogging\bin\Debug\Blogging.exe.config
+C:\Users\hp\source\repos\Blogging\Blogging\bin\Debug\Blogging.exe
+C:\Users\hp\source\repos\Blogging\Blogging\bin\Debug\Blogging.pdb
+C:\Users\hp\source\repos\Blogging\Blogging\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\hp\source\repos\Blogging\Blogging\bin\Debug\Google.Protobuf.dll
+C:\Users\hp\source\repos\Blogging\Blogging\bin\Debug\MySql.Data.dll
+C:\Users\hp\source\repos\Blogging\Blogging\bin\Debug\Renci.SshNet.dll
+C:\Users\hp\source\repos\Blogging\Blogging\bin\Debug\Google.Protobuf.xml
+C:\Users\hp\source\repos\Blogging\Blogging\bin\Debug\MySql.Data.xml
+C:\Users\hp\source\repos\Blogging\Blogging\bin\Debug\Renci.SshNet.xml
+C:\Users\hp\source\repos\Blogging\Blogging\obj\Debug\Blogging.csproj.CopyComplete
+C:\Users\hp\source\repos\Blogging\Blogging\obj\Debug\Blogging.exe
+C:\Users\hp\source\repos\Blogging\Blogging\obj\Debug\Blogging.pdb
+C:\Users\hp\source\repos\Blogging\Blogging\obj\Debug\Blogging.Form4.resources
+C:\Users\hp\source\repos\Blogging\Blogging\obj\Debug\Blogging.Form1.resources
+C:\Users\hp\source\repos\Blogging\Blogging\obj\Debug\Blogging.Form5.resources
+C:\Users\hp\source\repos\Blogging\Blogging\obj\Debug\Blogging.regForm2.resources
+C:\Users\hp\source\repos\Blogging\Blogging\obj\Debug\Blogging.Form7.resources
+E:\DEVOPS\c#\Mini Project C#\Updated Project\Blogging\Blogging\bin\Debug\Blogging.exe.config
+E:\DEVOPS\c#\Mini Project C#\Updated Project\Blogging\Blogging\bin\Debug\Blogging.exe
+E:\DEVOPS\c#\Mini Project C#\Updated Project\Blogging\Blogging\bin\Debug\Blogging.pdb
+E:\DEVOPS\c#\Mini Project C#\Updated Project\Blogging\Blogging\bin\Debug\BouncyCastle.Crypto.dll
+E:\DEVOPS\c#\Mini Project C#\Updated Project\Blogging\Blogging\bin\Debug\Google.Protobuf.dll
+E:\DEVOPS\c#\Mini Project C#\Updated Project\Blogging\Blogging\bin\Debug\MySql.Data.dll
+E:\DEVOPS\c#\Mini Project C#\Updated Project\Blogging\Blogging\bin\Debug\Renci.SshNet.dll
+E:\DEVOPS\c#\Mini Project C#\Updated Project\Blogging\Blogging\bin\Debug\Google.Protobuf.xml
+E:\DEVOPS\c#\Mini Project C#\Updated Project\Blogging\Blogging\bin\Debug\MySql.Data.xml
+E:\DEVOPS\c#\Mini Project C#\Updated Project\Blogging\Blogging\bin\Debug\Renci.SshNet.xml
+E:\DEVOPS\c#\Mini Project C#\Updated Project\Blogging\Blogging\obj\Debug\Blogging.Form4.resources
+E:\DEVOPS\c#\Mini Project C#\Updated Project\Blogging\Blogging\obj\Debug\Blogging.Form1.resources
+E:\DEVOPS\c#\Mini Project C#\Updated Project\Blogging\Blogging\obj\Debug\Blogging.Form7.resources
+E:\DEVOPS\c#\Mini Project C#\Updated Project\Blogging\Blogging\obj\Debug\Blogging.Form5.resources
+E:\DEVOPS\c#\Mini Project C#\Updated Project\Blogging\Blogging\obj\Debug\Blogging.Properties.Resources.resources
+E:\DEVOPS\c#\Mini Project C#\Updated Project\Blogging\Blogging\obj\Debug\Blogging.regForm2.resources
+E:\DEVOPS\c#\Mini Project C#\Updated Project\Blogging\Blogging\obj\Debug\Blogging.csproj.GenerateResource.cache
+E:\DEVOPS\c#\Mini Project C#\Updated Project\Blogging\Blogging\obj\Debug\Blogging.csproj.CopyComplete
+E:\DEVOPS\c#\Mini Project C#\Updated Project\Blogging\Blogging\obj\Debug\Blogging.exe
+E:\DEVOPS\c#\Mini Project C#\Updated Project\Blogging\Blogging\obj\Debug\Blogging.pdb
+E:\DEVOPS\c#\Mini Project C#\Updated Project\Blogging\Blogging\obj\Debug\Blogging.Read_blog.resources
+E:\DEVOPS\c#\Mini Project C#\Updated Project\Blogging\Blogging\obj\Debug\Blogging.Blog.resources
+E:\DEVOPS\c#\Mini Project C#\Updated Project\Blogging\Blogging\obj\Debug\Blogging.edit.resources
